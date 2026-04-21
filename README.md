@@ -1,1 +1,0 @@
-# alumnos-cevi-app-mobile
